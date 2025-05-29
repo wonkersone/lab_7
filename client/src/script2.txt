@@ -1,0 +1,2 @@
+min_by_creation_date
+execute_script C:\Users\MSI\IdeaProjects\Lab_7\client\src\script1.txt

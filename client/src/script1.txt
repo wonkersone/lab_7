@@ -1,0 +1,3 @@
+info
+help
+execute_script C:\Users\MSI\IdeaProjects\Lab_7\client\src\script2.txt
